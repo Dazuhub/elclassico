@@ -1,0 +1,6 @@
+{
+  "name": "Real Madrid Badge & Matchday Live",
+  "description": "A graphic designer's showcase of the iconic Real Madrid badge crest, featuring the high-impact Matchday Live layout, crest anatomy, match spotlight, and fan zone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
